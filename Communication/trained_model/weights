@@ -1,1 +1,5 @@
+comm_model_std00: train communication model with gausian noise with standard deviation 0
+comm_model_std01: train communication model with gausian noise with standard deviation 0.1
+comm_model_std04: train communication model with gausian noise with standard deviation 0.4
+comm_model_std06: train communication model with gausian noise with standard deviation 0.6
 
